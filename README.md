@@ -1,72 +1,64 @@
 <h1 align="center">Yoohoo bweloo ! 🫡</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=urdonyy&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+###
 
----
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=urdonyy.urdonyy&"  />
+</div>
 
-## 👨‍💻 About Me
+###
 
-Hi! I'm **Donald** — a backend-focused developer in the making who enjoys building practical, real-world systems.
+<h3 align="left">👨‍💻 About Me</h3>
 
-I’m currently diving deeper into **Cloud Computing ☁️**, **scalable web applications**, and **system design**.  
-I like turning ideas into working platforms that actually solve problems.
+###
 
-🚀 Projects I've worked on:
-- **AlumniHub** – a platform for alumni networking and engagement  
-- **Barangay Health Monitoring System** – community-based data tracking system  
+<p align="left">Hi! I'm Donald — a backend-focused developer in the making who enjoys building practical, real-world systems.<br><br>I’m currently diving deeper into Cloud Computing ☁️, scalable web applications, and system design.<br>I like turning ideas into working platforms that actually solve problems.<br><br>🚀 Projects I've worked on:<br><br>AlumniHub – a platform for alumni networking and engagement<br>Barangay Health Monitoring System – community-based data tracking system<br><br>💡 Currently improving:<br><br>Laravel & backend architecture<br>Cloud technologies (AWS)<br>AI & Machine Learning basics<br>Debugging + problem-solving (Code Corrupt prep 👀)</p>
 
-💡 Currently improving:
-- Laravel & backend architecture  
-- Cloud technologies (AWS)  
-- AI & Machine Learning basics  
-- Debugging + problem-solving (Code Corrupt prep 👀)
+###
 
----
+<div align="left">
+  <a href="https://www.linkedin.com/in/donald-oclarit-72154a317/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/mccd_o/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+</div>
 
-## 🛠️ Tech Stack
+###
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>
-</p>
+<h3 align="left">🛠️ Tech Stack</h3>
 
----
+###
 
-## 📊 GitHub Stats
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="60" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="60" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="60" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="flutter logo"  />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=urdonyy&show_icons=true&theme=dracula&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urdonyy&layout=compact&theme=dracula" height="150"/>
-</p>
+###
 
----
+<h3 align="left">📊 GitHub Stats</h3>
 
-## 🧠 Developer Mindset
+###
 
-- I build with **purpose**, not just for display  
-- I prefer **clean, scalable backend logic**  
-- I enjoy **debugging as much as building**  
-- Always learning, always improving 🚀  
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=urdonyy&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
----
-
-## 🤝 Let's Connect
-
-If you're into **tech, startups, or building systems**, let's connect and create something 🔥
+###
