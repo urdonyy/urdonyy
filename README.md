@@ -83,13 +83,3 @@ I enjoy turning ideas into working platforms that actually solve problems.<br><b
 </div>
 
 ###
-
-<h3 align="left">🐍 Contribution Snake</h3>
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/urdonyy/urdonyy/output/snake.svg" alt="Snake animation" />
-</div>
-
-###
