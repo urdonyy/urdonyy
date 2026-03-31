@@ -19,7 +19,7 @@
 ###
 
 <p align="left">
-Hi! I'm Donald — a backend-focused developer in the making who enjoys building practical, real-world systems.<br><br>
+Hi! I'm Donyy — a backend-focused developer in the making who enjoys building practical, real-world systems.<br><br>
 
 I’m currently diving deeper into <b>Cloud Computing ☁️</b>, scalable web applications, and system design.<br>
 I enjoy turning ideas into working platforms that actually solve problems.<br><br>
