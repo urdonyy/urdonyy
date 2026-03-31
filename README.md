@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://pin.it/6JdFKJq0a"  />
+  <img height="200" src="[https://pin.it/6JdFKJq0a](https://ph.pinterest.com/pin/1266706141598958/)"  />
 </div>
 
 ###
